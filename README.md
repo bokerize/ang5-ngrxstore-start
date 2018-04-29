@@ -1,3 +1,10 @@
+# tutorial done following steps in:
+https://appdividend.com/2018/01/31/angular-ngrx-store-tutorial-example-scratch/
+
+Using this as a starter for angular5 + ngrxstore
+
+
+
 # Ngrxstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
